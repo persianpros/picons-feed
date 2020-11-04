@@ -3,12 +3,6 @@
 # Script by Persian Prince for https://github.com/OpenVisionE2
 # You're not allowed to remove my copyright or reuse this script without putting this header.
 
-rm -rf *.ipk
-rm -rf *index*
-rm -rf *Packages*
-
-./fetch.sh https://github.com/picons/picons/releases
-
 java -jar IPKFeedGenerator.jar
 
 setup_git() {
