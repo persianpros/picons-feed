@@ -3,8 +3,6 @@
 # Script by Persian Prince for https://github.com/OpenVisionE2
 # You're not allowed to remove my copyright or reuse this script without putting this header.
 
-java -jar IPKFeedGenerator.jar
-
 setup_git() {
   git config --global user.email "bot@openvision.tech"
   git config --global user.name "Open Vision picon bot"

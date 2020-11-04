@@ -17,6 +17,8 @@ jobs:
       script: ./full-motor-snp.sh
     - stage: full-motor-srp
       script: ./full-motor-srp.sh
+    - stage: feed
+      script: ./feed.sh
 
 after_sucess:
 - ./build.sh
