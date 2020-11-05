@@ -9,6 +9,9 @@ addons:
     - rename
     - lynx
 
+git:
+  depth: 1
+
 jobs:
   include:
     - stage: cleanup
