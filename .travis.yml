@@ -22,13 +22,14 @@ script:
 - wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-snp
 - wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-srp
 - find . -name '*.ipk' -size +98M | xargs rm -f
+- chmod 755 IPKFeedGenerator.jar
 - java -jar IPKFeedGenerator.jar
 - git config --global user.email "bot@openvision.tech"
 - git config --global user.name "Open Vision picon bot"
 - git checkout master
 - git add -u
 - git add *
-- git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+- git commit -m "Travis build: $TRAVIS_BUILD_NUMBER"
 - git remote add upstream https://${GH_TOKEN}@github.com/OpenVisionE2/picons-feed.git > /dev/null 2>&1
 - git push --quiet upstream master || echo "failed to push with error $?"
 
