@@ -15,5 +15,5 @@ done
 #[[ $url =~ http://.+..+..+/(.+) ]]
 #[[ $BASH_REMATCH[1] =~ ]]
 
-wget -c -nH -r -l0 -A ipk -np -nd --wait=3 --execute="robots = off" --cut-dir=$cut $url/
+wget -c -nH -r -q -l0 -A ipk -P ./feed -np -nd --wait=3 --execute="robots = off" --cut-dir=$cut $url/
 
