@@ -24,6 +24,7 @@ script:
 - find . -name '*.ipk' -size +98M | xargs rm -f
 - chmod 755 IPKFeedGenerator.jar
 - java -jar IPKFeedGenerator.jar
+- cd ..
 - git config --global user.email "bot@openvision.tech"
 - git config --global user.name "Open Vision picon bot"
 - git checkout master
