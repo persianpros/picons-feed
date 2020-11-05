@@ -3,12 +3,23 @@
 # Script by Persian Prince for https://github.com/OpenVisionE2
 # You're not allowed to remove my copyright or reuse this script without putting this header.
 
-get_files() {
-  ./cleanup.sh
-  ./full-motor-snp.sh
-  ./full-motor-srp.sh
-  ./feed.sh
-}
+find . -name '*.ipk' -type f | xargs rm -f
+find . -name '*index*' -type f | xargs rm -f
+find . -name '*Packages*' -type f | xargs rm -f
+
+wget -c -nH -r -q -l0 -A ipk -P ./feed -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-snp
+
+# We may can't upload enigma2-plugin-picons-snp-full.800x450-760x410.light.on.transparent because of github's 100MB limit per file
+find . -name '*.ipk' -size +98M | xargs rm -f
+
+wget -c -nH -r -q -l0 -A ipk -P ./feed -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-srp
+
+# We may can't upload enigma2-plugin-picons-srp-full.800x450-760x410.light.on.transparent because of github's 100MB limit per file
+find . -name '*.ipk' -size +98M | xargs rm -f
+
+cd feed
+java -jar IPKFeedGenerator.jar
+cd ..
 
 setup_git() {
   git config --global user.email "bot@openvision.tech"
@@ -28,6 +39,5 @@ upload_files() {
 }
 
 setup_git
-get_files
 commit_files
 upload_files
