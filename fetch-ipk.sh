@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 function get-url-item {
     echo $1 | awk -F/ '{ print $'$2' }'
