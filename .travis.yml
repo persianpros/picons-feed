@@ -1,0 +1,17 @@
+language: generic
+
+sudo: required
+dist: bionic
+
+addons:
+  apt:
+    packages:
+    - rename
+    - lynx
+
+git:
+  depth: 1
+
+after_success:
+- ./build.sh
+
