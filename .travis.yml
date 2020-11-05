@@ -1,0 +1,24 @@
+language: generic
+
+sudo: required
+dist: bionic
+
+addons:
+  apt:
+    packages:
+    - rename
+    - lynx
+
+jobs:
+  include:
+    - stage: cleanup
+      script: ./cleanup.sh
+    - stage: full-motor-snp
+      script: ./full-motor-snp.sh
+    - stage: full-motor-srp
+      script: ./full-motor-srp.sh
+    - stage: feed
+      script: ./feed.sh
+
+after_sucess:
+- ./build.sh
