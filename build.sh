@@ -3,6 +3,13 @@
 # Script by Persian Prince for https://github.com/OpenVisionE2
 # You're not allowed to remove my copyright or reuse this script without putting this header.
 
+get_files() {
+  ./cleanup.sh
+  ./full-motor-snp.sh
+  ./full-motor-srp.sh
+  ./feed.sh
+}
+
 setup_git() {
   git config --global user.email "bot@openvision.tech"
   git config --global user.name "Open Vision picon bot"
@@ -21,5 +28,6 @@ upload_files() {
 }
 
 setup_git
+get_files
 commit_files
 upload_files
