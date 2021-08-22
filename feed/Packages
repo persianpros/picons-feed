@@ -13,21 +13,6 @@ OE: enigma2-plugin-picons-snp.220x132-190x102.light.on.black-er
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: cfbd00f8f33eb48b2a6bd1e38941064c
-Size: 27920372
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.light.on.black-er
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
-License: unknown
-
-
 Package: enigma2-plugin-picons-srp.400x170-370x140.dark.on.transparent
 Version: 2021-08-05--22-48-27
 Section: base
@@ -73,6 +58,36 @@ OE: enigma2-plugin-picons-snp.220x132-220x132.light.on.transparent
 License: unknown
 
 
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 882ced1308c7d1e7e0ae87cee3f695f8
+Size: 28802450
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 7c1c7ebda1957fd5694aa7059e99a64f
+Size: 59799426
+Filename: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.400x240-370x210.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
+License: unknown
+
+
 Package: enigma2-plugin-picons-srp.400x240-400x240.light.on.transparent
 Version: 2021-08-05--22-48-27
 Section: base
@@ -88,18 +103,33 @@ OE: enigma2-plugin-picons-srp.400x240-400x240.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 85f8e0a30123fdae23edcf9a83640979
-Size: 37602888
-Filename: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.400x170-370x140.dark.on.transparent
+MD5Sum: 84670554ca52ca1e69acad400cc74af8
+Size: 17930734
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: bb0bbf59f82df6f8b6d2eb5f946d5d9f
+Size: 46938174
+Filename: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.400x240-370x210.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
 License: unknown
 
 
@@ -133,33 +163,48 @@ OE: enigma2-plugin-picons-snp.400x240-400x240.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 061b281b27c143c5d1d644c05c4e8524
-Size: 14347074
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.light.on.transparent
+MD5Sum: 7c3fe301283749cebf7a25fc42bc5858
+Size: 38400546
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.light.on.black
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: f766e7b2fdc9a6b147c03ec532319735
-Size: 52503014
-Filename: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.400x240-400x240.light.on.transparent
+MD5Sum: 2252a892347f68a12d5a2cfd2586189e
+Size: 32365862
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.dark.on.white
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: f9e1b77ae4889bd721d22e42b215bff7
+Size: 12974268
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.dark.on.white
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
 License: unknown
 
 
@@ -178,63 +223,33 @@ OE: enigma2-plugin-picons-srp.100x60-86x46.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 3f54b113be59ec33709af3579ea920fb
-Size: 22897292
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.dark.on.transparent
+MD5Sum: 58407f16468e2d584c43af5efd7566d7
+Size: 11607088
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.dark.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: bfb1eb080744eb606bd6957381fcce88
-Size: 38392160
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.light.on.black
+MD5Sum: d2314ecbd0dce92c6034074ff898718a
+Size: 25787268
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.dark.on.white
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: fac07ecae9ad8b096e56d81f011e6bdc
-Size: 30704768
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.light.on.black
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: ec5457306d2b2c201405ce20a93566cb
-Size: 46966440
-Filename: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.400x240-370x210.light.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
 License: unknown
 
 
@@ -250,21 +265,6 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-snp.220x132-190x102.dark.on.white
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: aafca9ec6ad0abe35170e1377625ddd9
-Size: 32359734
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.dark.on.white
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
 License: unknown
 
 
@@ -298,21 +298,6 @@ OE: enigma2-plugin-picons-snp.220x132-220x132.dark.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: b683f53c3c31dd7898bd84668d1ad918
-Size: 28829060
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.dark.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
-License: unknown
-
-
 Package: enigma2-plugin-picons-snp.220x132-190x102.dark.on.reflection
 Version: 2021-08-05--22-48-27
 Section: base
@@ -325,6 +310,36 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-snp.220x132-190x102.dark.on.reflection
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 61f52d3927c1e4c1c738bc009d1dc096
+Size: 66962512
+Filename: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.400x240-400x240.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: d7e21c582053ee0ff2597f4f32b7b110
+Size: 14350646
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
 License: unknown
 
 
@@ -343,6 +358,21 @@ OE: enigma2-plugin-picons-srp.220x132-190x102.dark.on.reflection
 License: unknown
 
 
+Package: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: e094bfa0a4071b5b786341b7d32a0e64
+Size: 34625490
+Filename: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-220x132.dark.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
+License: unknown
+
+
 Package: enigma2-plugin-picons-srp.220x132-190x102.dark.on.white
 Version: 2021-08-05--22-48-27
 Section: base
@@ -355,21 +385,6 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-srp.220x132-190x102.dark.on.white
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 0dc19e3b8d87ce310af697ec3e413a36
-Size: 66948056
-Filename: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.400x240-400x240.light.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
 License: unknown
 
 
@@ -388,6 +403,21 @@ OE: enigma2-plugin-picons-snp.400x240-370x210.dark.on.blue
 License: unknown
 
 
+Package: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: ea4d4a358d8d15dde07732cf65502164
+Size: 34586006
+Filename: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-220x132.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
+License: unknown
+
+
 Package: enigma2-plugin-picons-srp.100x60-86x46.dark.on.reflection
 Version: 2021-08-05--22-48-27
 Section: base
@@ -400,6 +430,51 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-srp.100x60-86x46.dark.on.reflection
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 554b069354c8b0fb4bd2c29544e8c01e
+Size: 16023022
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.dark.on.white
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 821b163dc61e466f49eea6a1709d27d6
+Size: 35014176
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.light.on.black-er
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 1c7a484d46497cdb3950da6d0eef3d80
+Size: 18317942
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.light.on.black
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
 License: unknown
 
 
@@ -418,33 +493,48 @@ OE: enigma2-plugin-picons-snp.100x60-86x46.dark.on.reflection
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 1ef0993d7220546be0801a1575414838
-Size: 74704432
-Filename: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: snp-full.400x240-370x210.dark.on.blue
+MD5Sum: bb3a967aaac3877cf2cd6fd3b211b0a9
+Size: 42868688
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.dark.on.reflection
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: fa923054b16fb8475bde83a53ec568c8
-Size: 34342782
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.dark.on.reflection
+MD5Sum: af42168283b6443cdcd8c5dc28d8d332
+Size: 22861318
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.light.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 0524da7a222618e60c34bfd336ada6f5
+Size: 11578290
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
 License: unknown
 
 
@@ -493,48 +583,48 @@ OE: enigma2-plugin-picons-snp.100x60-86x46.dark.on.blue
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: d930a544c172ec124270b5e0db29e188
-Size: 25802692
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.dark.on.white
+MD5Sum: b8d85e1d924d2e5a641c14478c48033e
+Size: 74716162
+Filename: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: snp-full.400x240-370x210.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 14ecb90487262966d21d82409909dce3
-Size: 15795104
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.dark.on.reflection
+MD5Sum: cb1237820522bb1f8b6c7a65d319e71e
+Size: 14835736
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.light.on.black
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: c30f7d869c2b8a741b16c39bb494ac89
-Size: 42861284
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.dark.on.reflection
+MD5Sum: c412ff224747649c2efa0e7cb87b1997
+Size: 29656176
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
 License: unknown
 
 
@@ -553,48 +643,18 @@ OE: enigma2-plugin-picons-snp.100x60-86x46.dark.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 346aac631b4ea9e1083baf67c2894077
-Size: 59175324
-Filename: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: srp-full.400x240-370x210.dark.on.blue
+MD5Sum: 1686145bac7cc7e74bdedb5a5e54fe53
+Size: 37127170
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 3b8e135b41da13678737f318d733240e
-Size: 14535166
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.dark.on.blue
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 81a2638359aa9f46e9b7561cf6fa1b8c
-Size: 29674668
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.dark.on.blue
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
 License: unknown
 
 
@@ -643,18 +703,33 @@ OE: enigma2-plugin-picons-snp.400x240-370x210.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: d21fff31967621242c728e1cbd5c3919
-Size: 14842888
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.light.on.black
+MD5Sum: f2d0a30199082a8b961d9e942765d867
+Size: 59137088
+Filename: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: srp-full.400x240-370x210.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 4a74dc646c303801c601668f72b9547a
+Size: 27373238
+Filename: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-220x132.dark.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
 License: unknown
 
 
@@ -673,48 +748,18 @@ OE: enigma2-plugin-picons-srp.100x60-86x46.light.on.black
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: f00a5806c50428ec7bc88a144689e5f3
-Size: 59786236
-Filename: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.400x240-370x210.light.on.transparent
+MD5Sum: dc25522ca76cb5890f0239f65e463a36
+Size: 22883882
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.dark.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 71e0b90d44bc37db9ec15ee4ff7151c1
-Size: 16020216
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.dark.on.white
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: c1e50ed55b757f7cef5d96c0c4178bfd
-Size: 34578624
-Filename: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-220x132.light.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
 License: unknown
 
 
@@ -748,6 +793,21 @@ OE: enigma2-plugin-picons-srp.220x132-220x132.dark.on.transparent
 License: unknown
 
 
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: f976b69c87d2067b276eea43897d6626
+Size: 15786332
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.dark.on.reflection
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
+License: unknown
+
+
 Package: enigma2-plugin-picons-snp.220x132-190x102.dark.on.blue
 Version: 2021-08-05--22-48-27
 Section: base
@@ -763,18 +823,48 @@ OE: enigma2-plugin-picons-snp.220x132-190x102.dark.on.blue
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: b30e10a45820baca5c3cc17942849dd7
-Size: 18313918
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.light.on.black
+MD5Sum: e8d69815a6e9d94dbb004e157762f217
+Size: 47655770
+Filename: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.400x170-370x140.dark.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: e6f4024d82167a695f36f544b6ade137
+Size: 19480432
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.dark.on.reflection
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: d842f4cb0302dc6fd3aaf64875b3eb35
+Size: 30688502
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.light.on.black
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
 License: unknown
 
 
@@ -793,18 +883,18 @@ OE: enigma2-plugin-picons-snp.220x132-190x102.light.on.black
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 262d13c0e63da678e29a1280cd928e5c
-Size: 14384256
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.dark.on.transparent
+MD5Sum: 074d4ad5814430ce1bd4495cd76ce98c
+Size: 27907020
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.light.on.black-er
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
 License: unknown
 
 
@@ -823,48 +913,63 @@ OE: enigma2-plugin-picons-srp.100x60-86x46.dark.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 0857523ee8a4fd4e415d15530614e5b4
-Size: 11583240
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.light.on.transparent
+MD5Sum: 4dd837a0049865cee287d4a320e85003
+Size: 27345150
+Filename: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-220x132.light.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 715b8fa1b594c989735c9d53f720dfad
-Size: 35006522
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.light.on.black-er
+MD5Sum: bf94a86e765aae37e05123575baf77fe
+Size: 14386246
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.100x60-86x46.dark.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: d6303ea975c595142517529397e4f792
-Size: 22874824
-Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-190x102.light.on.transparent
+MD5Sum: b2ee5e772ad0ddb0ed932678cb580e59
+Size: 28833314
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: snp-full.220x132-190x102.dark.on.transparent
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 4e5017ac626cf298a51ebcfeea2b6b6b
+Size: 52472532
+Filename: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.400x240-400x240.light.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
 License: unknown
 
 
@@ -880,6 +985,21 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-snp.400x170-370x140.dark.on.transparent
+License: unknown
+
+
+Package: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
+Version: 2021-08-15--19-48-44
+Section: base
+Architecture: all
+MD5Sum: 423771b3681ee598ac6a98f0dea3d775
+Size: 37578032
+Filename: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent_2021-08-15--19-48-44_all.ipk
+Description: srp-full.400x170-370x140.dark.on.transparent
+Maintainer: https://github.com/picons
+Priority: optional
+Source: https://github.com/picons
+OE: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
 License: unknown
 
 
@@ -913,33 +1033,18 @@ OE: enigma2-plugin-picons-srp.220x132-190x102.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 74e41b48224729e54a21777eabb811e2
-Size: 34618702
-Filename: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-220x132.dark.on.transparent
+MD5Sum: 9dd4c6fa6f052fbb3909586e3147e70d
+Size: 14527080
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue_2021-08-15--19-48-44_all.ipk
+Description: srp-full.100x60-86x46.dark.on.blue
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 889673bbaf5cd62c2abfaf0bd7087465
-Size: 47649768
-Filename: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.400x170-370x140.dark.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
 License: unknown
 
 
@@ -958,36 +1063,6 @@ OE: enigma2-plugin-picons-srp.100x60-86x46.dark.on.blue
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: f321f1de3213f668a3561591ec99f87b
-Size: 28796504
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.light.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: f915f6c128fe93f22195db37329981d4
-Size: 12982146
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.dark.on.white
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
-License: unknown
-
-
 Package: enigma2-plugin-picons-snp.100x60-86x46.light.on.black
 Version: 2021-08-05--22-48-27
 Section: base
@@ -1000,21 +1075,6 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-snp.100x60-86x46.light.on.black
-License: unknown
-
-
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 227ff11910b5f55ed2c380f24b98b010
-Size: 17928724
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.dark.on.blue
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
 License: unknown
 
 
@@ -1033,21 +1093,6 @@ OE: enigma2-plugin-picons-srp.220x132-220x132.light.on.transparent
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 77fc3efcc37e375c1d5a2860b46b7a07
-Size: 37121634
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue_2021-08-14--00-04-08_all.ipk
-Description: snp-full.220x132-190x102.dark.on.blue
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
-License: unknown
-
-
 Package: enigma2-plugin-picons-srp.100x60-86x46.dark.on.white
 Version: 2021-08-05--22-48-27
 Section: base
@@ -1063,18 +1108,18 @@ OE: enigma2-plugin-picons-srp.100x60-86x46.dark.on.white
 License: unknown
 
 
-Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
-Version: 2021-08-14--00-04-08
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
+Version: 2021-08-15--19-48-44
 Section: base
 Architecture: all
-MD5Sum: 420f58578d3ac41d678a3255b266021c
-Size: 19477174
-Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection_2021-08-14--00-04-08_all.ipk
-Description: snp-full.100x60-86x46.dark.on.reflection
+MD5Sum: 817967ffaefea1b994b5a65097b3b32f
+Size: 34321258
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection_2021-08-15--19-48-44_all.ipk
+Description: srp-full.220x132-190x102.dark.on.reflection
 Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
-OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
 License: unknown
 
 
@@ -1120,51 +1165,6 @@ Maintainer: https://github.com/picons
 Priority: optional
 Source: https://github.com/picons
 OE: enigma2-plugin-picons-snp.220x132-190x102.dark.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 5dcb89d42d3360d685124309767c6803
-Size: 27359782
-Filename: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-220x132.light.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 8ae7224cb295bd85830dc0c97f70d732
-Size: 11614100
-Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.100x60-86x46.dark.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
-License: unknown
-
-
-Package: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
-Version: 2021-08-14--00-04-08
-Section: base
-Architecture: all
-MD5Sum: 83434fe1476b4a8202ea56883fd770c2
-Size: 27390346
-Filename: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent_2021-08-14--00-04-08_all.ipk
-Description: srp-full.220x132-220x132.dark.on.transparent
-Maintainer: https://github.com/picons
-Priority: optional
-Source: https://github.com/picons
-OE: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
 License: unknown
 
 
